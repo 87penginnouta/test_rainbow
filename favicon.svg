@@ -8,11 +8,12 @@
 
   <style>
     #svg_bg{
-      fill:#000;
+      fill:#a37044;
     }
     
     @media (prefers-color-scheme: dark) {
       /* dark theme styles */
+      fill:#A2BCAF;
     }
   </style>
 </svg>
